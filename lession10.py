@@ -30,5 +30,5 @@ def calculate_average(numbers):
         return 0
     return sum(numbers) / len(numbers)
 # Пример использования
-print(calculate_average([1, 2, 3, 4, 5]))  # Вывод: 3.0
-print(calculate_average([]))  # Вывод: 0
+print(calculate_average([1, 2, 3, 4, 5]))
+
